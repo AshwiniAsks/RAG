@@ -1,0 +1,28 @@
+Machine Learning
+
+    Machine learning (ML) is a subset of artificial intelligence (AI) that enables computers to learn from data and make decisions or predictions without being explicitly programmed for every task. By analyzing large datasets, algorithms identify patterns to improve their performance over time. It powers applications like recommendation engines, image recognition, and language translation. 
+
+Core Concepts of Machine Learning
+Data-Driven Learning: ML models are fed data to recognize patterns and relationships, refining their accuracy with experience, similar to human learning.
+Training and Algorithms: Data is used to train a model (a software program) through algorithms like decision trees, neural networks, or clustering.
+Prediction and Generation: Once trained, models can predict outcomes (e.g., stock prices, fraud detection) or generate new content (e.g., images, text), as noted by Google for Developers. 
+
+Primary Types of Machine Learning
+Supervised Learning: Algorithms are trained on labeled data—input data paired with the correct output. This is commonly used for classification (e.g., spam detection) and regression (e.g., price prediction).
+Unsupervised Learning: The model works with unlabeled data to identify hidden structures, patterns, or groupings independently. A common technique is clustering.
+Reinforcement Learning: Systems learn by trial and error, receiving rewards or penalties for actions, which is often used in robotics and game playing, notes GeeksforGeeks.
+Generative AI: A subset focusing on creating new data (text, images, audio) based on patterns learned from existing data, as explained by Google for Developers. 
+
+Key Workflow
+Data Collection: Gathering relevant data.
+Model Training: Feeding data into an algorithm.
+Model Evaluation: Testing performance for accuracy.
+Model Deployment: Integrating the model into a working application. 
+Microsoft Azure
+Microsoft Azure
+Common Use Cases
+Recommendations: Suggested products, music, or videos (e.g., Netflix, Amazon).
+Computer Vision: Image recognition, self-driving cars, and healthcare diagnostics.
+Natural Language Processing (NLP): Speech-to-text, chatbots, and translation services.
+Anomaly Detection: Identifying fraudulent transactions in banking.
+

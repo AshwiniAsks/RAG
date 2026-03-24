@@ -1,0 +1,15 @@
+JAVA Programming Introduction
+Java is a high-level, object-oriented programming language designed for portability, often branded with the slogan "write once, run anywhere" (WORA). Developed by James Gosling at Sun Microsystems in 1995 and now owned by Oracle Corporation, it is widely used in enterprise software, Android apps, and big data technologies. 
+
+Key Features and Principles
+Object-Oriented (OOP): Java is built around the concept of classes and objects, organizing code in a modular way. Core OOP principles include:
+Encapsulation: Bundling data and the methods that operate on that data within a single unit (a class).
+Inheritance: Allowing a new class to inherit properties and behaviors from an existing class.
+Polymorphism: Enabling objects of different classes to be treated as instances of their shared superclass.
+Abstraction: Hiding complex implementation details and showing only necessary features.
+Platform Independence: Java source code is compiled into an intermediate format called bytecode. This bytecode is then executed by the Java Virtual Machine (JVM), which acts as an interpreter for the specific hardware and operating system it runs on. This allows the same compiled code to run on Windows, Mac, or Linux without modification.
+Automatic Memory Management: Java uses an automatic garbage collector to manage memory, freeing up space occupied by objects that are no longer in use, which helps prevent memory leaks common in languages like C++.
+Robust and Secure: Java avoids error-prone features like explicit pointers and provides a security manager that allows untrusted code to run within a "sandbox" environment, limiting its access to the host system's resources.
+Multithreaded: Java has built-in support for multithreading, allowing multiple tasks to run concurrently within a single program, which improves performance and efficienc
+
+     
