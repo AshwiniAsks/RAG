@@ -1,0 +1,20 @@
+RAG
+name = "rag"
+version = "0.1.0"
+description = "A Retrieval-Augmented Generation (RAG) system for document processing and semantic search using embeddings, vector stores (ChromaDB and FAISS), and LangChain integration."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "chromadb>=1.5.5",
+    "faiss-cpu>=1.13.2",
+    "ipykernel>=7.2.0",
+    "langchain>=1.2.13",
+    "langchain-community>=0.4.1",
+    "langchain-core>=1.2.20",
+    "langchain-google-genai>=4.2.1",
+    "langchain-groq>=1.1.2",
+    "pymupdf>=1.27.2.2",
+    "pypdf>=6.9.1",
+    "python-dotenv>=1.2.2",
+    "sentence-transformers>=5.3.0",
+]
